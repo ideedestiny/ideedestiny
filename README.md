@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ideedestiny
 - 👀 I’m interested in Data Analytics, Machine Learning 
-- 🌱 I’m currently learning Power Bi
 - 💞️ I’m looking to collaborate on data science projects 
 - 👩‍💻  Technical skills: SQL, PowerBi, Python (pandas, numpy, flask, seaborn, matplotlib), Machine learning(Scikit- learn, tensorflow, keras) 
 - 📫 Reach me: idowuadeleke2000.ia@gmail.com
